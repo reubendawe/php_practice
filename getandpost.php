@@ -38,8 +38,8 @@
 
    <?php
 
-//    echo "{$_POST["username"]} <br>";
-//    echo "{$_POST["password"]}";
+   echo "{$_POST["username"]} <br>";
+   echo "{$_POST["password"]}";
 
    //$_GET = Data is appended to the URL
    //        NOT SECURE
