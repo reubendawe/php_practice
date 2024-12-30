@@ -17,6 +17,7 @@
         <li><a href="getandpost.php">_GET and $_POST</a></li>
         <li><a href="math_functions.php">Math Functions</a></li>
         <li><a href="if_statements.php">If statements</a></li>
+        <li><a href="logical_operators.php">Logical Operators</a></li>
     </ol>
     </div>
 
