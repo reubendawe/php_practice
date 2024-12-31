@@ -18,6 +18,7 @@
         <li><a href="math_functions.php">Math Functions</a></li>
         <li><a href="if_statements.php">If statements</a></li>
         <li><a href="logical_operators.php">Logical Operators</a></li>
+        <li><a href="switches.php">Switches</a></li>
     </ol>
     </div>
 

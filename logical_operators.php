@@ -101,7 +101,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reuben's PHP practice - Variables and Data Types</title>
+    <title>Reuben's PHP practice - Logical Operators</title>
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
@@ -114,6 +114,7 @@
         <li><a href="math_functions.php">Math Functions</a></li>
         <li><a href="if_statements.php">If statements</a></li>
         <li><a href="logical_operators.php">Logical Operators</a></li>
+        <li><a href="switches.php">Switches</a></li>
     </ol>
     </div>
 
