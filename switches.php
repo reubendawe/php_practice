@@ -19,6 +19,7 @@
         <li><a href="if_statements.php">If statements</a></li>
         <li><a href="logical_operators.php">Logical Operators</a></li>
         <li><a href="switches.php">Switches</a></li>
+        <li><a href="for_loops.php">For Loops</a></li>
     </ol>
     </div>
 
